@@ -13,8 +13,9 @@
     </g>
 
     <text x="260" y="150" class="text-main" style="font-size: 110px;">Donyaye</text>
-    <text x="710" y="150" class="text-sub" style="font-size: 110px;">Cloud</text>
+    <text x="710" y="150" class="text-sub" style="font-size: 110px;">Server</text>
     
     <rect x="265" y="175" width="600" height="4" class="yellow" opacity="0.6" />
     <text x="265" y="215" class="text-sub" style="font-size: 28px; letter-spacing: 5px;">PREMIUM CLOUD SERVICES</text>
+
 </svg>
